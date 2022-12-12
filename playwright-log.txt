@@ -1,0 +1,11 @@
+{"level":30,"time":"2022-12-07T13:41:43.259Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Listening on 65290"}
+{"level":30,"time":"2022-12-07T13:41:43.273Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:43.274Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:43.276Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:43.276Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:46.286Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:46.286Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:46.291Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:46.291Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-12-07T13:41:48.308Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-12-07T13:41:48.308Z","pid":32488,"hostname":"huskyearts-MacBook-Air.local","msg":"End of node method closeAllBrowsers"}
